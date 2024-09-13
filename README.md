@@ -1,7 +1,9 @@
 # Maksym Oleksiuk - Data Analyst Portfolio
 ## About
 Hi, I'm Maksym! I hold a degree in Systems Analysis and Management from the National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute.' My academic background has equipped me with a solid foundation in systems analysis, data management, and decision-making processes.
+
 Throughout my studies, I developed strong analytical skills and a passion for leveraging data to drive insights and improve decision-making. My experience includes working with complex datasets, programming in various languages, and applying statistical methods to uncover trends and patterns.
+
 I am eager to apply my technical and analytical skills to a data analyst role, where I can contribute to meaningful projects and continue to grow professionally. I am particularly interested in utilizing my expertise to solve real-world problems and drive data-informed decisions.
 
 My CV in [pdf](link).
