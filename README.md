@@ -1,12 +1,10 @@
-# Tianna Parris - Data Analyst Portfolio
+# Maksym Oleksiuk - Data Analyst Portfolio
 ## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hi, I'm Maksym! I hold a degree in Systems Analysis and Management from the National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute.' My academic background has equipped me with a solid foundation in systems analysis, data management, and decision-making processes.
+Throughout my studies, I developed strong analytical skills and a passion for leveraging data to drive insights and improve decision-making. My experience includes working with complex datasets, programming in various languages, and applying statistical methods to uncover trends and patterns.
+I am eager to apply my technical and analytical skills to a data analyst role, where I can contribute to meaningful projects and continue to grow professionally. I am particularly interested in utilizing my expertise to solve real-world problems and drive data-informed decisions.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
-
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
-
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](link).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
