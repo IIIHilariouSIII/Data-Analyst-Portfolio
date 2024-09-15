@@ -48,7 +48,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-National Yechnical University of Ukraine "Igor Sikorsky Kyiv Polutechnic Institute" : 
+National Technical University of Ukraine "Igor Sikorsky Kyiv Politechnic Institute" : 
 Bachelor Degree - System Analysis and Control,
 Sep 2020 - Jun 2024
 
