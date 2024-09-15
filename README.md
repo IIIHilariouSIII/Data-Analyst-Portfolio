@@ -12,9 +12,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/IIIHilariouSIII/Portfolio-Projects/tree/main)
   - Python
-    - [Analysis of an apartment rental offers in Germany](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/Immo_analysis.ipynb)
+    - [Analysis of an apartment rental offers in Germany](https://github.com/tiannaparris/Data-Analysis-Portfolio#analysis-of-an-apartment-rental-offers-in-germany)
     - [Tech Store Sales Analysis](link)  
   - SQL
     - [Covid 19 Data Exploration](link)
@@ -28,8 +28,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analysis of an apartment rental offers in Germany`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### Analysis of an apartment rental offers in Germany
+**Code:** [`Analysis of an apartment rental offers in Germany`](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/Immo_analysis.ipynb)
 
 **Goal:** To understand the underlying factors that drive rental price variations in the housing market.
 
