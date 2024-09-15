@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analysis of an apartment rental offers in Germany](link)
+    - [Analysis of an apartment rental offers in Germany](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/Immo_analysis.ipynb)
     - [Tech Store Sales Analysis](link)  
   - SQL
     - [Covid 19 Data Exploration](link)
