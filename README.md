@@ -15,11 +15,12 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/IIIHilariouSIII/Portfolio-Projects/tree/main)
   - Python
     - [Analysis of an apartment rental offers in Germany](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio#analysis-of-an-apartment-rental-offers-in-germany)
-    - [Tech Store Sales Analysis](link)  
+    - [Analysis of laptops technical specifications](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio#analysis-of-laptops-technical-specifications)  
   - SQL
     - [Covid 19 Data Exploration](link)
     - [Nashville Housing Data Cleaning](link)
-  - Tableau---> [go to Tableau..](link)
+  - Tableau
+    - [Tableau](link)
   
 
 
@@ -42,8 +43,18 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Using Python functions the analysis revealed that the most significant factors influencing rental prices are service charges, base rent, living space, and living space range.
 
 
+### Analysis of laptops technical specifications
+**Code:** [`Analysis of laptops technical specifications`](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/laptops_analysis.ipynb)
 
+**Goal:** The analysis aims to identify and understand how various technical specifications, such as RAM size, CPU and GPU manufacturers, and screen resolution, influence laptop market prices.
 
+**Description:** The data was collected from a comprehensive dataset of laptop specifications and prices, which was made available on Kaggle for public analysis. The dataset includes various features such as manufacturer, model, screen size, CPU, GPU, RAM, memory, operating system, weight, and price. In general there are 15 columns. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between all parameters, and implemented Pearson’s correlation statistical analysis.
+
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Results:** Using Python functions, the analysis revealed that the most significant factors influencing laptop prices are RAM, screen resolution, and CPU type.
 
 
 
