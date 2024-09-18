@@ -17,8 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Analysis of an apartment rental offers in Germany](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio#analysis-of-an-apartment-rental-offers-in-germany)
     - [Analysis of laptops technical specifications](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio#analysis-of-laptops-technical-specifications)  
   - SQL
-    - [Covid 19 Data Exploration](link)
-    - [Nashville Housing Data Cleaning](link)
+    - [Netflix Movies and TV Shows Data Analysis](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio#Netflix-Movies-and-TV-Shows-Data-Analysis)
   - Tableau
     - [Tableau](link)
   
@@ -30,7 +29,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analysis of an apartment rental offers in Germany
-**Code:** [`Analysis of an apartment rental offers in Germany`](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/Immo_analysis.ipynb)
+**Code:** [`Analysis of an apartment rental offers in Germany.ipynb`](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/Immo_analysis.ipynb)
 
 **Goal:** To understand the underlying factors that drive rental price variations in the housing market.
 
@@ -44,7 +43,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Analysis of laptops technical specifications
-**Code:** [`Analysis of laptops technical specifications`](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/laptops_analysis.ipynb)
+**Code:** [`Analysis of laptops technical specifications.ipynb`](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/laptops_analysis.ipynb)
 
 **Goal:** The analysis aims to identify and understand how various technical specifications, such as RAM size, CPU and GPU manufacturers, and screen resolution, influence laptop market prices.
 
@@ -56,7 +55,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Using Python functions, the analysis revealed that the most significant factors influencing laptop prices are RAM, screen resolution, and CPU type.
 
+### Netflix Movies and TV Shows Data Analysis
+**Code:** [`Netflix Movies and TV Shows Data Analysis.sql`](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/Netflix%20Movies%20and%20TV%20Shows%20Data%20Analysis.sql)
 
+**Description:** The dataset contains records of Netflix shows, movies, and series, including details such as title, director, cast, country of origin, release year, rating, duration, and the date the content was added to the platform. It covers various types of content available globally on Netflix, categorized by genre and other attributes. This project includes the following steps: data loading and EDA (exploratory data analysis).
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions
+
+**Technology:** PostgreSQL
 
 ## Education
 National Technical University of Ukraine "Igor Sikorsky Kyiv Politechnic Institute" : 
