@@ -65,7 +65,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** PostgreSQL
 
 ### Sales and Customers Dashboard
-**Link:** [`Sales and Customers Dashboard`](link)
+**Link:** [`Sales and Customers Dashboard`](https://public.tableau.com/app/profile/maksym.oleksiuk/viz/SalesCustomerDashboardsDynamic_17266703567640/SalesDashboard?publish=yes)
 
 **Description:** The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends. The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
 
