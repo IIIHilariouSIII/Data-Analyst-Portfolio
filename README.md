@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
     - [Netflix Movies and TV Shows Data Analysis](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio#Netflix-Movies-and-TV-Shows-Data-Analysis)
   - Tableau
-    - [Tableau](link)
+    - [Sales Dashboard](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio#Sales-Dashboard)
   
 
 
@@ -63,6 +63,14 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions
 
 **Technology:** PostgreSQL
+
+### Sales Dashboard
+**Code:** [`Sales and Customers Dashboard`](link)
+
+**Description:** The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends. The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
+
+**Results:** KPI Overview, Sales Trends, Customer Trends, Product Subcategory Comparison, Weekly Trends for Sales & Profit, Customer Distribution by Number of Orders, Top 10 Customers By Profit.
+
 
 ## Education
 National Technical University of Ukraine "Igor Sikorsky Kyiv Politechnic Institute" : 
