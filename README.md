@@ -6,7 +6,7 @@ Throughout my studies, I developed strong analytical skills and a passion for le
 
 I am eager to apply my technical and analytical skills to a data analyst role, where I can contribute to meaningful projects and continue to grow professionally. I am particularly interested in utilizing my expertise to solve real-world problems and drive data-informed decisions.
 
-My CV in [pdf](link).
+My CV in [pdf](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio/blob/main/Lebenslauf%20Maksym%20Oleksiuk.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
