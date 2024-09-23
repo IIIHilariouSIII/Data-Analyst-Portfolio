@@ -39,7 +39,20 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** Using Python functions the analysis revealed that the most significant factors influencing rental prices are service charges, base rent, living space, and living space range.
+**Results:** 
+  - May offers the lowest average rental costs, starting from 597 euros;
+
+  - Rental prices increase with living space, as shown by a linear regression model;
+
+  - Penthouses and lofts are the most valuable housing types, while half basements are the least valuable;
+
+  - Key factors influencing rental costs are service charges, base rent, and living space;
+
+  - The region negatively affects rental prices;
+
+  - Hamburg, Berlin, and Baden-Württemberg have the highest average rents, while most rental offers are in Nordrhein-Westfalen, Saxony, and Saxony-Anhalt;
+
+  - Amenities like balconies, elevators, gardens, and kitchens increase rental prices, with kitchens having the largest impact.
 
 
 ### Analysis of laptops technical specifications
@@ -53,7 +66,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** Using Python functions, the analysis revealed that the most significant factors influencing laptop prices are RAM, screen resolution, and CPU type.
+**Results:** 
+  - RAM, screen resolution, and CPU type significantly affect laptop prices, with higher RAM and better screen resolutions increasing the price;
+
+  - Laptops from LG have the highest average price;
+
+  - Ultrabooks are the lightest laptops, while gaming laptops are the heaviest;
+
+  - Laptops with Nvidia and Intel components are the most expensive, while AMD combinations are more budget-friendly.
 
 ### Netflix Movies and TV Shows Data Analysis
 **Code:** [`Netflix Movies and TV Shows Data Analysis.sql`](https://github.com/IIIHilariouSIII/Portfolio-Projects/blob/main/Netflix%20Movies%20and%20TV%20Shows%20Data%20Analysis.sql)
