@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/IIIHilariouSIII/Portfolio-Projects/tree/main)
+- [Portfolio Projects](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio/blob/main/README.md#Portfolio-Projects)
   - Python
     - [Analysis of an apartment rental offers in Germany](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio#analysis-of-an-apartment-rental-offers-in-germany)
     - [Analysis of laptops technical specifications](https://github.com/IIIHilariouSIII/Data-Analyst-Portfolio#analysis-of-laptops-technical-specifications)  
